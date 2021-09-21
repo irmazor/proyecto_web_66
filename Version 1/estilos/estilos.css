@@ -1,0 +1,44 @@
+.imagen-producto {
+    max-width: 300%;
+    max-height: 100%;
+    border-radius: 30px;
+}
+
+.fila-productos {
+    display: flex;
+}
+
+.tarjeta-producto {
+    padding: 10px;
+    border: solid;
+    margin: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px #ccc;
+}
+
+.nombre-producto {
+    text-align: center;
+    color: #08546d;
+}
+
+.precio-producto {
+    text-align: center;
+    color: #a00d0d;
+    font-family: cursive;
+}
+
+.descripcion-producto {
+    max-width: 200px;
+    text-align: justify;
+}
+
+.estilo-icono {
+    font-size: 64px;
+    border-style: outset;
+    background-color: gold;
+}
+
+.div-icono" {
+    text-align: center;
+    paddin-botton: 10px;
+}
